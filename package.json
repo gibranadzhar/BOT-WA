@@ -1,0 +1,20 @@
+{
+  "name": "Fauzialifatah whatsapp-bot",
+  "version": "1.0.0",
+  "main": "bot.ts",
+  "type": "module",
+  "dependencies": {
+    "@whiskeysockets/baileys": "github:skyzopedia/Bail",
+    "chalk": "^5.4.1",
+    "pino": "^9.7.0",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "scripts": {
+    "start": "ts-node index.ts"
+  }
+}
