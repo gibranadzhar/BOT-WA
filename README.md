@@ -29,12 +29,10 @@ Bot WhatsApp ringan dan mudah digunakan, cocok untuk pemula yang ingin belajar m
 
 ## 👤 Pembuat
 
-**Fauzialifatah** adalah pembuatan script bot whatsapp ini yang menggunakan **typescript** dan **javascript** ini script ini mudah bangat untuk di otak atik agar kalian paham dalam pebuatan script bot whatsapp jangan lupa untuk support selalu owner script nya
+**BrannDeveloper** adalah pembuatan script bot whatsapp ini yang menggunakan **typescript** dan **javascript** ini script ini mudah bangat untuk di otak atik agar kalian paham dalam pebuatan script bot whatsapp jangan lupa untuk support selalu owner script nya
 
-WhatsApp: [+6282132710183](https://wa.me/6282132710183)  
-Saluran WhatsApp: [Followme](https://www.whatsapp.com/channel/0029VawsCnQ9mrGkOuburC1z?utm_medium=social&utm_source=heylink.me)  
-Instagram: [@fauzialifatah_](https://instagram.com/fauzialifatah_)  
-YouTube: [Fauzialifatah](https://www.youtube.com/@Fauzialifatah)
+WhatsApp: [+6283827963304](https://wa.me/6283827963304)  
+Instagram: [@gbrnadzhr](https://instagram.com/gbrnadzhr)  
 
 ---
 
